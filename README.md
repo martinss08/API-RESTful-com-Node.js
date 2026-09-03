@@ -1,4 +1,4 @@
-# Curso Node
+# API Rest usando Node
 
 API simples de CRUD de pessoas, criada para estudo de Node.js, Express e MongoDB.
 
