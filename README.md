@@ -36,6 +36,8 @@ Instale as dependências:
 npm install
 ```
 
+Antes de iniciar a aplicação, é necessário ter um banco criado no MongoDB Atlas.
+
 Crie um arquivo `.env` com base no `.env.example`:
 
 ```env
